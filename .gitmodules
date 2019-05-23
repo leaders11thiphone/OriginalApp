@@ -1,0 +1,39 @@
+[submodule "arichan"]
+	path = arichan
+	url = git@github.com:arisamuto/thisisfinal.git
+[submodule "tarou"]
+	path = tarou
+	url = git@github.com:Koutaroutarou/purinmap.git
+[submodule "sakine"]
+	path = sakine
+	url = git@github.com:sakine218/Germination.git
+[submodule "miki"]
+	path = miki
+	url = git@github.com:math-miki/CoffeePassport.git
+[submodule "george"]
+	path = george
+	url = git@github.com:minutoni/chat.git
+[submodule "uriko"]
+	path = uriko
+	url = git@github.com:Liese0118/MyTapi.git
+[submodule "reo"]
+	path = reo
+	url = git@github.com:leo-30/SimpleDiary_LiT-.git
+[submodule "ryuma"]
+	path = ryuma
+	url = git@github.com:ryuma-h5/po.git
+[submodule "haira"]
+	path = haira
+	url = git@github.com:KazukiOhta/Akikoma.git
+[submodule "meimei"]
+	path = meimei
+	url = git@github.com:KomeiFujimura/BookTree.git
+[submodule "chikama"]
+	path = chikama
+	url = git@github.com:Chisatooo/game.git
+[submodule "panpu"]
+	path = panpu
+	url = git@github.com:kbcha10/IntroApp.git
+[submodule "emily"]
+	path = emily
+	url = git@github.com:appleEmily/-2019.git
